@@ -1,0 +1,3 @@
+paste me into your MCP~
+
+Obj_OgreMCP:PasteButton[RawCommand,PrePull,irc,!c,-AbilityTag,AUTO,PreCastTag,13,Allow,AUTO]
