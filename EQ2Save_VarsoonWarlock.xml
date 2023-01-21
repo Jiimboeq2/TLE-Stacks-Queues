@@ -117,12 +117,12 @@
 				</Set>
 				<Set Name="11">
 					<Setting Name="__SourceName">Ro's Blade</Setting>
-					<Setting Name="Target">Disbard</Setting>
+					<Setting Name="Target">@Bard</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
 				<Set Name="12">
 					<Setting Name="__SourceName">Ro's Blade</Setting>
-					<Setting Name="Target">Tidal</Setting>
+					<Setting Name="Target">@DPS1</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
 				<Set Name="13">
@@ -475,7 +475,7 @@
 				</Set>
 				<Set Name="3">
 					<Setting Name="__SourceName">Grasp of Bertoxxulous</Setting>
-					<Setting Name="Target">Disbard</Setting>
+					<Setting Name="Target">@DPS1</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
 				<Set Name="4">
@@ -485,12 +485,12 @@
 				</Set>
 				<Set Name="5">
 					<Setting Name="__SourceName">Shroud of Bertoxxulous</Setting>
-					<Setting Name="Target">Tidal</Setting>
+					<Setting Name="Target">@Bard</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
 				<Set Name="6">
 					<Setting Name="__SourceName">Boon of the Damned</Setting>
-					<Setting Name="Target">Tidal</Setting>
+					<Setting Name="Target">@DPS1</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
 				<Set Name="7">
