@@ -950,17 +950,17 @@
 				</Set>
 				<Set Name="31">
 					<Setting Name="__SourceName">Thornskin</Setting>
-					<Setting Name="Target">Faketank</Setting>
+					<Setting Name="Target">@Tank</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
 				<Set Name="32">
 					<Setting Name="__SourceName">Primal Fury</Setting>
-					<Setting Name="Target">Climate</Setting>
+					<Setting Name="Target">@DPS1</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
 				<Set Name="33">
 					<Setting Name="__SourceName">Spirit of the Bat</Setting>
-					<Setting Name="Target">Disbard</Setting>
+					<Setting Name="Target">@DPS1</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
 				<Set Name="34">
@@ -977,12 +977,12 @@
 				</Set>
 				<Set Name="36">
 					<Setting Name="__SourceName">Lucidity</Setting>
-					<Setting Name="Target">Climate</Setting>
+					<Setting Name="Target">@DPS1</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
 				<Set Name="37">
 					<Setting Name="__SourceName">Lucidity</Setting>
-					<Setting Name="Target">Understudy</Setting>
+					<Setting Name="Target">@Bard</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
 				<Set Name="38">
