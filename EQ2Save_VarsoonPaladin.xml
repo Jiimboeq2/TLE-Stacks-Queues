@@ -262,7 +262,7 @@
 				<Set Name="27">
 					<Setting Name="__SourceName">Sigil of Heroism</Setting>
 					<Setting Name="ID">TRUE</Setting>
-					<Setting Name="Target">Heavy</Setting>
+					<Setting Name="Target">@DPS1</Setting>
 					<Setting Name="Type">Combat</Setting>
 				</Set>
 				<Set Name="28">
