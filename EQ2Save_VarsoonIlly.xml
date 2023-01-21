@@ -718,7 +718,7 @@
 			<Set Name="CastStack">
 				<Set Name="1">
 					<Setting Name="__SourceName">Cure Magic</Setting>
-					<Setting Name="Target">Odda</Setting>
+					<Setting Name="Target">@Healer1</Setting>
 					<Setting Name="Type">Cure</Setting>
 				</Set>
 				<Set Name="2">
@@ -753,13 +753,13 @@
 				<Set Name="7">
 					<Setting Name="%">70</Setting>
 					<Setting Name="__SourceName">Mana Flow</Setting>
-					<Setting Name="Target">Addinc</Setting>
+					<Setting Name="Target">@Healer2</Setting>
 					<Setting Name="Type">PowerHeal</Setting>
 				</Set>
 				<Set Name="8">
 					<Setting Name="%">70</Setting>
 					<Setting Name="__SourceName">Mana Flow</Setting>
-					<Setting Name="Target">Tidal</Setting>
+					<Setting Name="Target">@healer1</Setting>
 					<Setting Name="Type">PowerHeal</Setting>
 				</Set>
 				<Set Name="9">
@@ -865,12 +865,12 @@
 				</Set>
 				<Set Name="30">
 					<Setting Name="__SourceName">Synergism</Setting>
-					<Setting Name="Target">Fizzles</Setting>
+					<Setting Name="Target">@DPS1</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
 				<Set Name="31">
 					<Setting Name="__SourceName">Synergism</Setting>
-					<Setting Name="Target">Climate</Setting>
+					<Setting Name="Target">@Bard</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
 				<Set Name="32">
@@ -919,7 +919,7 @@
 				<Set Name="41">
 					<Setting Name="__Disabled">TRUE</Setting>
 					<Setting Name="__SourceName">Synergism</Setting>
-					<Setting Name="Target">Pet:Stewiie</Setting>
+					<Setting Name="Target">@me</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
 				<Set Name="42">
