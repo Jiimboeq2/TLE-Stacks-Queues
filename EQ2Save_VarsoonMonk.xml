@@ -106,7 +106,7 @@
 				</Set>
 				<Set Name="2">
 					<Setting Name="__SourceName">Tranquil Vision</Setting>
-					<Setting Name="Target">Heavy</Setting>
+					<Setting Name="Target">@DPS1</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
 				<Set Name="3">
