@@ -518,7 +518,7 @@
 				</Set>
 				<Set Name="3">
 					<Setting Name="__SourceName">Cure Magic</Setting>
-					<Setting Name="Target">Furrz</Setting>
+					<Setting Name="Target">@Healer1</Setting>
 					<Setting Name="Type">Cure</Setting>
 				</Set>
 				<Set Name="4">
