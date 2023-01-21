@@ -164,7 +164,7 @@
 				<Set Name="12">
 					<Setting Name="%">60</Setting>
 					<Setting Name="__SourceName">Hierophantic Genesis</Setting>
-					<Setting Name="Target">Heavy</Setting>
+					<Setting Name="Target">@Tank</Setting>
 					<Setting Name="Type">Heal</Setting>
 				</Set>
 				<Set Name="13">
