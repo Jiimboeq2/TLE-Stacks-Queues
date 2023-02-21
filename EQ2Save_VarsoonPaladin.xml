@@ -78,15 +78,15 @@
 			<Set Name="Aliases">
 				<Set Name="1">
 					<Setting Name="__SourceName">*MT</Setting>
-					<Setting Name="For">Heavy</Setting>
+					<Setting Name="For">@MT</Setting>
 				</Set>
 				<Set Name="2">
 					<Setting Name="__SourceName">*MA</Setting>
-					<Setting Name="For">Dabble</Setting>
+					<Setting Name="For">@MA</Setting>
 				</Set>
 				<Set Name="3">
 					<Setting Name="__SourceName">*OT1</Setting>
-					<Setting Name="For">Dabble</Setting>
+					<Setting Name="For">@OT</Setting>
 				</Set>
 				<Set Name="4">
 					<Setting Name="__SourceName">*RFaith</Setting>
@@ -94,15 +94,15 @@
 				</Set>
 				<Set Name="5">
 					<Setting Name="__SourceName">*Amnds</Setting>
-					<Setting Name="For">Bops</Setting>
+					<Setting Name="For">@DPS1</Setting>
 				</Set>
 				<Set Name="6">
 					<Setting Name="__SourceName">*Amnds</Setting>
-					<Setting Name="For">Climate</Setting>
+					<Setting Name="For">@DPS2</Setting>
 				</Set>
 				<Set Name="7">
 					<Setting Name="__SourceName">*Conj</Setting>
-					<Setting Name="For">Fizzles</Setting>
+					<Setting Name="For">@Target</Setting>
 				</Set>
 				<Set Name="8">
 					<Setting Name="__SourceName">*Necro</Setting>
@@ -110,11 +110,11 @@
 				</Set>
 				<Set Name="9">
 					<Setting Name="__SourceName">*MTHealer1</Setting>
-					<Setting Name="For">Slymn</Setting>
+					<Setting Name="For">@Healer1</Setting>
 				</Set>
 				<Set Name="10">
 					<Setting Name="__SourceName">*MTHealer2</Setting>
-					<Setting Name="For">Relax</Setting>
+					<Setting Name="For">@Healer2</Setting>
 				</Set>
 			</Set>
 			<Set Name="CastStack">
