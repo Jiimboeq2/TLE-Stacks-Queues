@@ -1844,6 +1844,7 @@
 					<Setting Name="#">2</Setting>
 					<Setting Name="__SourceName">Circle of the Ancients</Setting>
 					<Setting Name="Type">CA</Setting>
+					<Setting Name="__Disabled">TRUE</Setting>
 				</Set>
 				<Set Name="31">
 					<Setting Name="__SourceName">---------------------------------------------------------------------------------------------------</Setting>
@@ -1920,143 +1921,149 @@
 					<Setting Name="Type">Combat</Setting>
 				</Set>
 				<Set Name="42">
+					<Setting Name="__SourceName">Ancestral Ward</Setting>
+					<Setting Name="ID">TRUE</Setting>
+					<Setting Name="Target">@Tank</Setting>
+					<Setting Name="Type">Combat</Setting>
+				</Set>
+				<Set Name="43">
 					<Setting Name="%">90</Setting>
 					<Setting Name="__SourceName">Torpor</Setting>
 					<Setting Name="Target">@Tank</Setting>
 					<Setting Name="Type">Heal</Setting>
 				</Set>
-				<Set Name="43">
+				<Set Name="44">
 					<Setting Name="__SourceName">Ritual</Setting>
 					<Setting Name="ID">TRUE</Setting>
 					<Setting Name="Target">@Me</Setting>
 					<Setting Name="Type">Combat</Setting>
 				</Set>
-				<Set Name="44">
+				<Set Name="45">
 					<Setting Name="__SourceName">Totemic Protection</Setting>
 					<Setting Name="ID">TRUE</Setting>
 					<Setting Name="Target">@Tank</Setting>
 					<Setting Name="Type">Combat</Setting>
 				</Set>
-				<Set Name="45">
+				<Set Name="46">
 					<Setting Name="__SourceName">Ancestral Sentry</Setting>
 					<Setting Name="ID">TRUE</Setting>
 					<Setting Name="Target">@Tank</Setting>
 					<Setting Name="Type">Combat</Setting>
 				</Set>
-				<Set Name="46">
+				<Set Name="47">
 					<Setting Name="__SourceName">Stampede of the Herd</Setting>
 					<Setting Name="ID">TRUE</Setting>
 					<Setting Name="Type">CA</Setting>
 				</Set>
-				<Set Name="47">
+				<Set Name="48">
 					<Setting Name="__SourceName">-------------------------------DPS---------------------------------------------------------------</Setting>
 					<Setting Name="Type">NamedCA</Setting>
 				</Set>
-				<Set Name="48">
+				<Set Name="49">
 					<Setting Name="#">1</Setting>
 					<Setting Name="__SourceName">Echoes of the Ancients</Setting>
 					<Setting Name="Type">NamedCA</Setting>
 				</Set>
-				<Set Name="49">
+				<Set Name="50">
 					<Setting Name="__SourceName">Rabies</Setting>
 					<Setting Name="ID">TRUE</Setting>
 					<Setting Name="Type">CA</Setting>
 				</Set>
-				<Set Name="50">
+				<Set Name="51">
 					<Setting Name="__SourceName">Glacial Flames</Setting>
 					<Setting Name="ID">TRUE</Setting>
 					<Setting Name="Type">CA</Setting>
 				</Set>
-				<Set Name="51">
+				<Set Name="52">
 					<Setting Name="#">1</Setting>
 					<Setting Name="__SourceName">Spirits</Setting>
 					<Setting Name="ID">TRUE</Setting>
 					<Setting Name="Type">NamedCA</Setting>
 				</Set>
-				<Set Name="52">
+				<Set Name="53">
 					<Setting Name="__SourceName">Plague</Setting>
 					<Setting Name="Type">CA</Setting>
 				</Set>
-				<Set Name="53">
+				<Set Name="54">
 					<Setting Name="__SourceName">Umbral Warding</Setting>
 					<Setting Name="ID">TRUE</Setting>
 					<Setting Name="Target">@Tank</Setting>
 					<Setting Name="Type">Combat</Setting>
 				</Set>
-				<Set Name="54">
+				<Set Name="55">
 					<Setting Name="__SourceName">------------------------------END OF STACK---------------------------------------------------------------</Setting>
 					<Setting Name="Type">NamedCA</Setting>
 				</Set>
-				<Set Name="55">
-					<Setting Name="__SourceName">Ancestry</Setting>
-					<Setting Name="Target">@DPS1</Setting>
-					<Setting Name="Type">Buff</Setting>
-				</Set>
 				<Set Name="56">
-					<Setting Name="__SourceName">Ancestral Avatar</Setting>
+					<Setting Name="__SourceName">Ancestry</Setting>
 					<Setting Name="Target">@DPS1</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
 				<Set Name="57">
 					<Setting Name="__SourceName">Ancestral Avatar</Setting>
-					<Setting Name="Target">@Tank</Setting>
+					<Setting Name="Target">@DPS1</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
 				<Set Name="58">
-					<Setting Name="__SourceName">Ancestral Mettle</Setting>
+					<Setting Name="__SourceName">Ancestral Avatar</Setting>
+					<Setting Name="Target">@Tank</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
 				<Set Name="59">
-					<Setting Name="__SourceName">Guild Buff</Setting>
+					<Setting Name="__SourceName">Ancestral Mettle</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
 				<Set Name="60">
-					<Setting Name="__SourceName">Immunities</Setting>
+					<Setting Name="__SourceName">Guild Buff</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
 				<Set Name="61">
-					<Setting Name="__SourceName">Premonition</Setting>
-					<Setting Name="Target">@Me</Setting>
+					<Setting Name="__SourceName">Immunities</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
 				<Set Name="62">
 					<Setting Name="__SourceName">Premonition</Setting>
-					<Setting Name="Target">@Tank</Setting>
+					<Setting Name="Target">@Me</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
 				<Set Name="63">
-					<Setting Name="__SourceName">Runic Armor</Setting>
+					<Setting Name="__SourceName">Premonition</Setting>
+					<Setting Name="Target">@Tank</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
 				<Set Name="64">
-					<Setting Name="__SourceName">Ravenous Protector</Setting>
+					<Setting Name="__SourceName">Runic Armor</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
 				<Set Name="65">
-					<Setting Name="__SourceName">Spirit of the Mammoth</Setting>
+					<Setting Name="__SourceName">Ravenous Protector</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
 				<Set Name="66">
-					<Setting Name="__SourceName">Strength of the Ancestors</Setting>
+					<Setting Name="__SourceName">Spirit of the Mammoth</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
 				<Set Name="67">
-					<Setting Name="__SourceName">Shrink Servant</Setting>
+					<Setting Name="__SourceName">Strength of the Ancestors</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
 				<Set Name="68">
+					<Setting Name="__SourceName">Shrink Servant</Setting>
+					<Setting Name="Type">Buff</Setting>
+				</Set>
+				<Set Name="69">
 					<Setting Name="__SourceName">Summon Spirit Companion</Setting>
 					<Setting Name="Type">NonCombatBuff</Setting>
 				</Set>
-				<Set Name="69">
+				<Set Name="70">
 					<Setting Name="__SourceName">Spiritual Warding</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
-				<Set Name="70">
+				<Set Name="71">
 					<Setting Name="__SourceName">Ursine Avatar</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
-				<Set Name="71">
+				<Set Name="72">
 					<Setting Name="__SourceName">Water Spirit</Setting>
 					<Setting Name="Type">Buff</Setting>
 				</Set>
