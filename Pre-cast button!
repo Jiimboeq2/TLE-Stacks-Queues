@@ -1,4 +1,4 @@
-paste me into your MCP~
+right click MCP and open the button -- CTRL + V the following into your innerspace Console. ( most people use the ` key )
 
 Obj_OgreMCP:PasteButton[RawCommand,PrePull,irc,!c,-AbilityTag,AUTO,PreCastTag,13,Allow,AUTO]
 
