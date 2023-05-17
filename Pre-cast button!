@@ -1,8 +1,7 @@
 right click MCP and open the button -- CTRL + V the following into your innerspace Console. ( most people use the ` key )
 
-Obj_OgreMCP:PasteButton[RawCommand,PrePull,irc,!c,-AbilityTag,AUTO,PreCastTag,13,Allow,AUTO]
+Obj_OgreMCP:PasteButton[RawCommand,PrePull,oc,!c,-AbilityTag,AUTO,PreCastTag,13,Allow,AUTO]
 
-
-some other stacks were contributed by others using this button
+for IRC OPTION use
 
 Obj_OgreMCP:PasteButton[RawCommand,PrePull,irc,!c,-AbilityTag,AUTO,PreCast,13,Allow,AUTO]
