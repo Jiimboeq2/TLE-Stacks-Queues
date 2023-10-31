@@ -1,6 +1,6 @@
 Make sure to read the README file for detailed instructions.
 
-These stacks are intended for isxogre but can be converted to isxri via cbimport
+These stacks are intended for isxogre but can be converted to isxri via cb import
 
 Move the scripts to C:\Program Files (x86)\InnerSpace\Scripts.
 
