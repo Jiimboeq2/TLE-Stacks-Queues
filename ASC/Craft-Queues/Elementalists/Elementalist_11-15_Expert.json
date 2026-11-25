@@ -1,0 +1,32 @@
+[
+  {
+    "recipeId": 0,
+    "recipeName": "Elemental Amalgamation (Expert)",
+    "quantity": 1
+  },
+  {
+    "recipeId": 0,
+    "recipeName": "Elemental Channeling (Expert)",
+    "quantity": 1
+  },
+  {
+    "recipeId": 0,
+    "recipeName": "Fiery Incineration (Expert)",
+    "quantity": 1
+  },
+  {
+    "recipeId": 0,
+    "recipeName": "Frost Pyre (Expert)",
+    "quantity": 1
+  },
+  {
+    "recipeId": 0,
+    "recipeName": "Glacial Freeze (Expert)",
+    "quantity": 1
+  },
+  {
+    "recipeId": 0,
+    "recipeName": "Pact of the Fire Tyrant (Expert)",
+    "quantity": 1
+  }
+]

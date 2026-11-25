@@ -1,0 +1,57 @@
+[
+  {
+    "recipeId": 0,
+    "recipeName": "Exceptional Elixir of Intellect",
+    "quantity": 100
+  },
+  {
+    "recipeId": 0,
+    "recipeName": "Exceptional Elixir of Fortitude",
+    "quantity": 100
+  },
+  {
+    "recipeId": 0,
+    "recipeName": "Grandmaster's Elixir of Second Sight",
+    "quantity": 200
+  },
+  {
+    "recipeId": 0,
+    "recipeName": "Exceptional Elemental Remedy",
+    "quantity": 100
+  },
+  {
+    "recipeId": 0,
+    "recipeName": "Exceptional Freedom of Action",
+    "quantity": 100
+  },
+  {
+    "recipeId": 0,
+    "recipeName": "Exceptional Freedom of Mind",
+    "quantity": 100
+  },
+  {
+    "recipeId": 0,
+    "recipeName": "Exceptional Trauma Remedy",
+    "quantity": 100
+  },
+  {
+    "recipeId": 0,
+    "recipeName": "Exceptional Noxious Remedy",
+    "quantity": 100
+  },
+  {
+    "recipeId": 0,
+    "recipeName": "Exceptional Elixir of Piety",
+    "quantity": 100
+  },
+  {
+    "recipeId": 0,
+    "recipeName": "Exceptional Arcane Remedy",
+    "quantity": 100
+  },
+  {
+    "recipeId": 0,
+    "recipeName": "Exceptional Elixir of Deftness",
+    "quantity": 100
+  }
+]
